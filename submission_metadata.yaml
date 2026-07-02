@@ -2,7 +2,7 @@ team_name: "RARE_VOID"
 primary_contact_name: "UPDATE_YOUR_NAME"
 primary_contact_email: "UPDATE_YOUR_EMAIL"
 primary_contact_phone: "UPDATE_YOUR_PHONE"
-github_repository_url: "UPDATE_AFTER_CREATING_REPO"
+github_repository_url: "https://github.com/PURUSH364/redrob_rare-void"
 sandbox_demo_link: "UPDATE_AFTER_CREATING_SANDBOX"
 ai_tools_declared:
   - Claude
