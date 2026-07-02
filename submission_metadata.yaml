@@ -1,18 +1,20 @@
 team_name: "RARE_VOID"
-primary_contact_name: "UPDATE_YOUR_NAME"
-primary_contact_email: "UPDATE_YOUR_EMAIL"
-primary_contact_phone: "UPDATE_YOUR_PHONE"
+primary_contact_name: "G JayaPrakash Venkat Narayan"
+primary_contact_email: "galisettyjayaprakash5@gmail.com"
+primary_contact_phone: "7995836663"
 github_repository_url: "https://github.com/PURUSH364/redrob_rare-void"
-sandbox_demo_link: "UPDATE_AFTER_CREATING_SANDBOX"
+sandbox_demo_link: "https://huggingface.co/spaces/BlitZZ364/rare-void-ranking-demo"
 ai_tools_declared:
   - Claude
   - Copilot
+  - antigravity
+  - Gemini
 compute_environment_summary: "CPU-only, 16GB RAM, Python 3.11"
 team_members:
-  - name: "UPDATE_YOUR_NAME"
-    email: "UPDATE_YOUR_EMAIL"
-  - name: "UPDATE_TEAMMATE_NAME"
-    email: "UPDATE_TEAMMATE_EMAIL"
+  - name: "shreya patha "
+    email: "pathashreya@gmail.com"
+  - name: "Y Purushotham Reddy"
+    email: "yerrapurushothamreddy364@gmail.com"
 methodology_summary: >
   Multi-stage ranking pipeline: (1) evidence extraction from all 100K profiles
   scanning for AI/ML keywords, production experience, evaluation frameworks,
