@@ -1,18 +1,18 @@
 team_name: "RARE_VOID"
-primary_contact_name: "Team RARE_VOID"
-primary_contact_email: "team@rare-void.dev"
-primary_contact_phone: "+91 9876543210"
-github_repository_url: "https://github.com/rare-void/redrob-hackathon"
-sandbox_demo_link: "https://huggingface.co/spaces/rare-void/redrob-hackathon"
+primary_contact_name: "UPDATE_YOUR_NAME"
+primary_contact_email: "UPDATE_YOUR_EMAIL"
+primary_contact_phone: "UPDATE_YOUR_PHONE"
+github_repository_url: "UPDATE_AFTER_CREATING_REPO"
+sandbox_demo_link: "UPDATE_AFTER_CREATING_SANDBOX"
 ai_tools_declared:
   - Claude
   - Copilot
 compute_environment_summary: "CPU-only, 16GB RAM, Python 3.11"
 team_members:
-  - name: "Team RARE_VOID Lead"
-    email: "team@rare-void.dev"
-  - name: "RARE_VOID Member 2"
-    email: "member2@rare-void.dev"
+  - name: "UPDATE_YOUR_NAME"
+    email: "UPDATE_YOUR_EMAIL"
+  - name: "UPDATE_TEAMMATE_NAME"
+    email: "UPDATE_TEAMMATE_EMAIL"
 methodology_summary: >
   Multi-stage ranking pipeline: (1) evidence extraction from all 100K profiles
   scanning for AI/ML keywords, production experience, evaluation frameworks,

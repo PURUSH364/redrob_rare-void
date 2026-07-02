@@ -4,6 +4,29 @@ Welcome to the official repository for team **RARE_VOID**'s solution to the Indi
 
 ---
 
+## Quick Start — Reproduce the Submission CSV
+
+**Single command to produce the ranked submission from the candidates file:**
+
+```bash
+python -m src.main --candidates data/candidates.jsonl --out output/team_rare_void.csv
+```
+
+This command:
+1. Streams 100,000 candidate profiles from the JSONL file
+2. Runs the full 13-phase pipeline (evidence extraction, 20-feature scoring, dual-lane retrieval, semantic reranking, behavior scoring, aggregation)
+3. Produces `output/team_rare_void.csv` with the top 100 ranked candidates
+4. Validates the output format automatically
+
+**Prerequisites (one-time setup):**
+```bash
+pip install -r requirements.txt
+```
+
+**No pre-computation required.** The sentence-transformer model (`all-MiniLM-L6-v2`) is included in `local_model/` and loaded at runtime. The pipeline runs fully offline on CPU within ~150 seconds.
+
+---
+
 ## 📖 Table of Contents
 1. [Pipeline Architecture & Methodology](#-pipeline-architecture--methodology)
 2. [Repository Structure](#-repository-structure)
