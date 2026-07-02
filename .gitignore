@@ -1,0 +1,11 @@
+data/
+output/
+__pycache__/
+*.pyc
+.env
+venv/
+.pytest_cache/
+.idea/
+.vscode/
+*.swp
+*.egg-info/
